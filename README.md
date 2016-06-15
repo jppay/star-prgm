@@ -1,2 +1,2 @@
 # star-prgm
-Programs involving displaying stars
+Programs for displaying stars in various shapes - pyramid, reverse pyramid and diamond
